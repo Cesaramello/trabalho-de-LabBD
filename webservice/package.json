@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-labbd-webservice",
+  "version": "0.0.1",
+  "description": "Simples gerenciador de tarefas demostrando a integração entre uma aplicação Web Service e um banco de dados relacional utilizando um framework ORM.",
+  "main": "app.js",
+  "scripts": {
+    "create-schema": "node ./scripts/create-schema.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo Trabalho LabBD",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.21.1",
+    "sqlite3": "^4.1.0"
+  }
+}
