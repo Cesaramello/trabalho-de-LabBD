@@ -10,6 +10,7 @@ Simples gerenciador de tarefas demostrando a integração entre um Web Service e
  1. Bianca Ferreira da Frota Barreto - [@itsbibsbarreto](https://github.com/itsbibsbarreto)
  2. César Augusto Sampaio de Mello - [@Cesaramello](https://github.com/Cesaramello)
  3. Elmo Junior Ficagna - [@elmojrf](https://github.com/elmojrf)
+ 4. Enzo Moraes Pereira - [@enzomoraes](https://github.com/enzomoraes)
 
 ## Tecnologias Utilizadas
  1. SGBD: [PostgreSQL](https://www.postgresql.org/)
