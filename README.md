@@ -7,8 +7,9 @@
 Simples gerenciador de tarefas demostrando a integração entre um Web Service e um banco de dados relacional utilizando um framework ORM.
 
 ## Equipe
- 1. César Augusto Sampaio de Mello - [@Cesaramello](https://github.com/Cesaramello)
- 2. Elmo Junior Ficagna - [@elmojrf](https://github.com/elmojrf)
+ 1. Bianca Ferreira da Frota Barreto - [@itsbibsbarreto](https://github.com/itsbibsbarreto)
+ 2. César Augusto Sampaio de Mello - [@Cesaramello](https://github.com/Cesaramello)
+ 3. Elmo Junior Ficagna - [@elmojrf](https://github.com/elmojrf)
 
 ## Tecnologias Utilizadas
  1. SGBD: [PostgreSQL](https://www.postgresql.org/)
