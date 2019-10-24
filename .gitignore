@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+#Package Managers lockers and logs
+npm-debug.log*
+package-lock.json*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock*
+
+#Editors Folders
+.vscode/
+.idea/
+
+#OS Files
+.DS_Store
+desktop.ini
