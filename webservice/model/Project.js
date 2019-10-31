@@ -17,4 +17,7 @@ const Project = sequelize.define('project', {
     }
 });
 
+//Associations
+Project.belongsTo(User);
+
 module.exports = Project;
